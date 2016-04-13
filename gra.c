@@ -2,7 +2,7 @@
 
 int main(void){
 
-printf("Szukam nowego wspolkolatora. tran toan .\n");
+printf("Szukam nowego wspolkolatora. Oddam Włoszkę\n");
 
 return 0;
 
