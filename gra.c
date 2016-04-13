@@ -2,7 +2,7 @@
 
 int main(void){
 
-printf("Szukam nowego wspolkolatora. Kto chciałby mieszkać z Włoszką :F ?\n");
+printf("Szukam nowego wspolkolatora. Piotr kOizmor.\n");
 
 return 0;
 
